@@ -28,6 +28,9 @@ namespace _06.Loops
 
                 if (dblMultiplicationTable < 100)
                 {
+                    //Console.WriteLine("{0} {1} {2}", var1, var2, var3);
+                    //Console.WriteLine(var1 + " " + var2 + " " + var3);
+
                     Console.WriteLine("Hier onder ziet u de tafel van {0}", dblMultiplicationTable.ToString());
 
                     // FOR LOOP
